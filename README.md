@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hey!, My Name is Zack Yuan</h1>
 <h3 align="center">I'm currently persuing a degree in Full-Stack Web Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zack6yuan&label=Profile%20views&color=0e75b6&style=flat" alt="zack6yuan" /> </p>
-
 - 🌱 I’m currently learning **C, and plan on learning Python, Java, React, HTML, and CSS.**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/zack6yuan](https://github.com/zack6yuan)
