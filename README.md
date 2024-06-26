@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zack6yuan&label=Profile%20views&color=0e75b6&style=flat" alt="zack6yuan" /> </p>
 
-- 🌱 I’m currently learning: **C, Python, Java, React, and Mobile Development**
+- 🌱 I’m currently learning: **C, and plan to learn Python, Java, React, and Mobile Development**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/zack6yuan](https://github.com/zack6yuan)
 
 - 📫 How to reach me: **Message me through my socials**
 
-- ⚡ Fun fact **I'm also a Graphic Designer and have Adobe application skills**
+- ⚡ Fun fact: **I'm also a Graphic Designer and have Adobe application skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
