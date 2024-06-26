@@ -1,14 +1,17 @@
-<h1 align="center">👋 Hey!, My Name is Zack Yuan</h1>
+<h1 align="center">👋 Hi, my name is Zack Yuan</h1>
 <h3 align="center">I'm currently persuing a degree in Full-Stack Web Development</h3>
-- 🖥️ Learning to build dynamic and responsive web applications including creating and managing the database to predicting and enabling user interactions.
 
-- 🌱 I’m currently learning **C, and plan on learning Python, Java, React, HTML, and CSS. **
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zack6yuan&label=Profile%20views&color=0e75b6&style=flat" alt="zack6yuan" /> </p>
+
+- 🌱 I’m currently learning: **C, and plan on learning Python, Java, React, HTML, and CSS**
+
+- 🤝 Skills: **Build dynamic and responsive web applications including creating and managing the database to predicting and enabling user interactions.**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/zack6yuan](https://github.com/zack6yuan)
 
-- 📫 How to reach me: **Message me through my socials.**
+- 📫 How to reach me: **Message me through my socials**
 
-- ⚡ Fun fact: **I'm also a Graphic Designer and proficinent in Adobe Cloud applications.**
+- ⚡ Fun fact **I'm also a Graphic Designer and proficient in Adobe Cloud applications**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
