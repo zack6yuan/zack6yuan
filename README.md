@@ -1,7 +1,8 @@
 <h1 align="center">👋 Hey!, My Name is Zack Yuan</h1>
 <h3 align="center">I'm currently persuing a degree in Full-Stack Web Development</h3>
+- 🖥️ Learning to build dynamic and responsive web applications including creating and managing the database to predicting and enabling user interactions.
 
-- 🌱 I’m currently learning **C, and plan on learning Python, Java, React, HTML, and CSS.**
+- 🌱 I’m currently learning **C, and plan on learning Python, Java, React, HTML, and CSS. **
 
 - 👨‍💻 All of my projects are available at: [https://github.com/zack6yuan](https://github.com/zack6yuan)
 
