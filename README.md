@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, my name is Zack Yuan</h1>
 <h3 align="center">I'm currently persuing a degree in Full-Stack Web Development / UX UI</h3>
 
-- 🤝 Skills: **I build dynamic and responsive web applications including creating and managing the database and predicting and enabling user interactions.**
+- 🤝 Skills: **I build dynamic and responsive web applications including creating and managing multiple databases and predicting + enabling user interactions.**
 
 - 🌱 I’m currently building knowledge on: **C Language, and plan on learning Python, Java, React, HTML, and CSS**
 
