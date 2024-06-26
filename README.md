@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **Message me through my socials**
 
-- ⚡ Fun fact: **I'm also a Graphic Designer and have Adobe application skills**
+- ⚡ Fun fact: **I'm also a Graphic Designer and proficinent in Adobe Cloud applications**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
