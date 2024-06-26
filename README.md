@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zack Yuan</h1>
+<h1 align="center"> 👋 Hey!, I'm Zack Yuan</h1>
 <h3 align="center">I'm currently persuing a degree in Full-Stack Web Development</h3>
 
 <h3 align="left">Connect with me:</h3>
