@@ -3,7 +3,7 @@
 
 - 🤝 Skills: **I build dynamic and responsive web applications including creating and managing multiple databases and predicting + enabling user interactions.**
 
-- 🌱 I’m currently building knowledge on: **C Language, and plan on learning Python, Java, React, HTML, and CSS**
+- 🌱 I’m currently building knowledge on: **C Language, and plan on learning Python, JavaScript, HTML, and CSS**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/zack6yuan](https://github.com/zack6yuan)
 
