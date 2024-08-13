@@ -7,6 +7,8 @@
 
 ![zack6yuan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zack6yuan&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
+[![](https://visitcount.itsvg.in/api?id=zack6yuan&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
 - 🤝 Skills: **I build dynamic and responsive web applications including creating and managing multiple databases and predicting + enabling user interactions.**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/zack6yuan](https://github.com/zack6yuan)
