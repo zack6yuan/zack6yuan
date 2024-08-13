@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, my name is Zack Yuan</h1>
-<h3 align="center">I'm currently persuing a degree in Full-Stack Web Development / UX UI</h3>
+<h3 align="center">I'm currently building my portfolio to persue a career as a FullStack Developer</h3>
 
 ![zack6yuan's Stats](https://github-readme-stats.vercel.app/api?username=zack6yuan&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 ![zack6yuan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zack6yuan&theme=midnight-purple&hide_border=true)
