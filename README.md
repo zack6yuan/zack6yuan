@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi! My name is Zack Yuan</h1>
-<h3 align="center">I'm currently building my portfolio to persue a career as a FullStack Developer</h3>
+<h3 align="center">I'm currently building my portfolio to pursue a career as a FullStack Developer</h3>
 
 ![zack6yuan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zack6yuan&theme=midnight-purple&hide_border=true)
 
@@ -7,15 +7,13 @@
 
 ![zack6yuan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zack6yuan&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=zack6yuan&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
-
 - 🤝 Skills: **I build dynamic and responsive web applications including creating and managing multiple databases and predicting + enabling user interactions.**
 
-- 👨‍💻 All of my projects are available at: [https://github.com/zack6yuan](https://github.com/zack6yuan)
+- 👨‍💻 Im currently working on https://github.com/atlas-higher_level_programming
 
 - 📫 How to reach me: **Message me through my socials**
 
-- ⚡ Fun fact: **I'm also a Graphic Designer and proficient in Adobe Cloud applications**
+- ⚡ Fun fact: **I'm also a Graphic Designer and proficient in working with Adobe Cloud applications**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
