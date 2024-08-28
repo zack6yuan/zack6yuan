@@ -7,11 +7,9 @@
 
 ![zack6yuan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zack6yuan&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
-- 🤝 Skills: **I build dynamic and responsive web applications including creating and managing multiple databases and predicting + enabling user interactions.**
+- 🤝 Skills: **I build dynamic and responsive web applications including creating and managing multiple databases and predicting + enabling user interactions.**//
 
-- 👨‍💻 Im currently working on https://github.com/atlas-higher_level_programming
-
-- 📫 How to reach me: **Message me through my socials**
+- 👨‍💻 I am currently working on: https://github.com/zack6yuan/atlas-higher_level_programming
 
 - ⚡ Fun fact: **I'm also a Graphic Designer and proficient in working with Adobe Cloud applications**
 
