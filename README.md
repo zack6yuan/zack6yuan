@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently building my portfolio to pursue a career as a FullStack Web Developer.
+I'm currently building my portfolio to pursue a career as a Full-Stack Web Developer.
 
 
 ## 🌐 Socials:
