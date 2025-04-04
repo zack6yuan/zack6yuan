@@ -1,5 +1,5 @@
 # 👋🏻 Hi! Im Zack.
-As a Tulsa, Oklahoma based student, I'm actively enhancing my Full-Stack Web Development skills to secure a position as a Software Engineer. My background in graphic-design naturally led me to Full-Stack, where I can combine my love of visual aesthetics with my technical skills. My passion for computers and technology started at a young age. From personal computers to mobile devices, I've developed a strong proficiency across a range of technologies. I develop versatile, user-friendly, and visually appealing applications for a wide range of purposes.
+As a Tulsa, Oklahoma based student, I'm actively enhancing my Full-Stack Web Development skills to secure a position as a Software Engineer. My background in graphic-design naturally led me to Full-Stack, where I can combine my love of visual aesthetics with my technical skills. I've developed a strong proficiency across a range of technologies allowing me to develop versatile, user-friendly, and visually appealing applications for a wide range of purposes.
 
 
 ## 🌐 Connect With Me!:
